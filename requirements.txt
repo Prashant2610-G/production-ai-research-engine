@@ -1,6 +1,7 @@
 langchain
 langchain-community==0.3.27
 langchain-openai
+langchain-chroma
 openai
 chromadb
 rank-bm25
