@@ -1,5 +1,5 @@
 langchain
-langchain-community
+langchain-community==0.3.7
 langchain-openai
 openai
 chromadb
@@ -8,10 +8,11 @@ sentence-transformers
 pypdf
 huggingface-hub
 streamlit
-ragas
+ragas==0.2.6
 datasets
 langsmith
 python-dotenv
 tiktoken
 numpy
 pandas
+langchain-google-vertexai==0.1.0
