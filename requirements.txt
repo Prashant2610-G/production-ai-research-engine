@@ -1,6 +1,6 @@
-langchain
-langchain-community
-langchain-openai
+langchain==0.3.25
+langchain-community==0.3.27
+langchain-openai==0.3.19
 openai
 chromadb
 rank-bm25
@@ -8,7 +8,7 @@ sentence-transformers
 pypdf
 huggingface-hub
 streamlit
-ragas
+ragas==0.2.10
 datasets
 langsmith
 python-dotenv
