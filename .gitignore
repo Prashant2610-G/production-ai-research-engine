@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+chroma_db/
+bm25_index.pkl
+metrics_log.json
+eval_results.json
+.DS_Store

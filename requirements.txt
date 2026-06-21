@@ -1,0 +1,17 @@
+langchain
+langchain-community
+langchain-openai
+openai
+chromadb
+rank-bm25
+sentence-transformers
+pypdf
+huggingface-hub
+streamlit
+ragas
+datasets
+langsmith
+python-dotenv
+tiktoken
+numpy
+pandas
